@@ -1,0 +1,26 @@
+[16-Feb-2021 02:55:54 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsintanh/claimcovid19.rsintanhusada.com/config.php on line 8
+[16-Feb-2021 02:55:59 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsintanh/claimcovid19.rsintanhusada.com/config.php on line 8
+[16-Feb-2021 02:55:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rsintanh/claimcovid19.rsintanhusada.com/validasi.php on line 29
+[16-Feb-2021 02:55:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rsintanh/claimcovid19.rsintanhusada.com/validasi.php on line 30
+[16-Feb-2021 02:55:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsintanh/claimcovid19.rsintanhusada.com/validasi.php on line 32
+[16-Feb-2021 02:55:59 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsintanh/claimcovid19.rsintanhusada.com/config.php on line 8
+[16-Feb-2021 02:57:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsintanh/claimcovid19.rsintanhusada.com/config.php on line 8
+[16-Feb-2021 02:57:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsintanh/claimcovid19.rsintanhusada.com/config.php on line 8
+[16-Feb-2021 02:57:50 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsintanh/claimcovid19.rsintanhusada.com/config.php on line 8
+[16-Feb-2021 02:57:58 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsintanh/claimcovid19.rsintanhusada.com/config.php on line 8
+[16-Feb-2021 02:59:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsintanh/claimcovid19.rsintanhusada.com/config.php on line 8
+[16-Feb-2021 02:59:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsintanh/claimcovid19.rsintanhusada.com/config.php on line 8
+[16-Feb-2021 02:59:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsintanh/claimcovid19.rsintanhusada.com/config.php on line 8
+[16-Feb-2021 03:00:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsintanh/claimcovid19.rsintanhusada.com/config.php on line 8
+[16-Feb-2021 03:00:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsintanh/claimcovid19.rsintanhusada.com/config.php on line 8
+[16-Feb-2021 03:01:14 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsintanh/claimcovid19.rsintanhusada.com/config.php on line 8
+[16-Feb-2021 03:01:32 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsintanh/claimcovid19.rsintanhusada.com/config.php on line 8
+[16-Feb-2021 03:03:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsintanh/claimcovid19.rsintanhusada.com/config.php on line 8
+[16-Feb-2021 03:03:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsintanh/claimcovid19.rsintanhusada.com/config.php on line 8
+[16-Feb-2021 03:03:33 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsintanh/claimcovid19.rsintanhusada.com/config.php on line 8
+[16-Feb-2021 03:06:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsintanh/claimcovid19.rsintanhusada.com/config.php on line 8
+[16-Feb-2021 03:06:18 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsintanh/claimcovid19.rsintanhusada.com/config.php on line 8
+[16-Feb-2021 03:06:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rsintanh/claimcovid19.rsintanhusada.com/validasi.php on line 29
+[16-Feb-2021 03:06:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rsintanh/claimcovid19.rsintanhusada.com/validasi.php on line 30
+[16-Feb-2021 03:06:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsintanh/claimcovid19.rsintanhusada.com/validasi.php on line 32
+[16-Feb-2021 03:06:18 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsintanh/claimcovid19.rsintanhusada.com/config.php on line 8
